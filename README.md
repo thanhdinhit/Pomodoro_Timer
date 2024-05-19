@@ -19,4 +19,4 @@ This program was built with no external libraries, just the base C# system libra
 
 ## License
 This project is licensed under the Mozilla Public License 2.0 - see the [LICENSE](https://github.com/ShaanCoding/Pomodoro-Timer/blob/master/LICENSE) files for details
-# Pomodoro_Timer
+# Pomodoro_Timer_Custom
